@@ -9,5 +9,7 @@ It is written by Objective-C
 
 Base on code from: http://mobileoop.com/background-location-update-programming-for-ios-7
 
+This my blog: http://tutiphone.blogspot.com/2015/06/library-for-tracking-location-on-iphone.html
+
 Please give me any feedback from you!
 Thank you!
